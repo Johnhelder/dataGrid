@@ -5,21 +5,17 @@
   border: none;
 }
 
-h1{
+ 
+body{
   display: flex;
-  align-items: center;
   justify-content: center;
-  text-transform: uppercase;
-  margin-top: 50px;
-  font-size: 2rem;
-  color: blue;
 }
-
 .dgv{
   display: flex;
   justify-content: flex-start;
   align-self: flex-start;
   flex-direction: column;
+  padding-top: 3rem;
 }
 
 .dgvTitulos{
@@ -32,7 +28,7 @@ h1{
   border-radius: 5px 5px 0px 0px;
 }
 
-.dgvTitulos div, .dgvDados div{
+.dgvTitulos div, .dgvLinha div{
   padding: 5px;
 }
 
@@ -40,9 +36,22 @@ h1{
   display: flex;
   justify-content: flex-start;
   align-self: flex-start;
-  flex-direction: row;
+  flex-direction: column;
 }
 
+.dgvLinha{
+  display: flex;
+  justify-content: flex-start;
+  align-self: flex-start;
+  flex-direction: row;
+}
+.dgvLinha:nth-child(odd){
+  background-color: #ddd;
+}
+
+.dgvLinha:nth-child(even){
+  background-color: #eee;
+}
 .c1{
   width: 50px;
 }
