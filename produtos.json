@@ -1,0 +1,26 @@
+[
+  {
+"id":"01",
+"produto":"Processador",
+"marca":"intel",
+"modelo":"17"
+},
+{
+  "id":"02",
+  "produto":"Mouse",
+  "marca":"Logitech",
+  "modelo":"M90"
+  },
+  {
+    "id":"03",
+    "produto":"Monitor",
+    "marca":"Dell",
+    "modelo":"HZT-145"
+    },
+    {
+      "id":"05",
+      "produto":"Impressora",
+      "marca":"HP",
+      "modelo":"P1005"
+      }
+]
