@@ -23,9 +23,17 @@
       "marca":"HP",
       "modelo":"P1005"
       }
+      {
       "id":"06",
       "produto":"Teclado",
       "marca":"Logitech",
       "modelo":"MP850"
       }
+
+      {
+        "id":"07",
+        "produto":"Teclado",
+        "marca":"Logitech",
+        "modelo":"MP850"
+        }
 ]
