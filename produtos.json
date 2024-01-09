@@ -36,4 +36,11 @@
         "marca":"Gigabyte",
         "modelo":"CNC-12"
         }
+
+        {
+          "id":"08",
+          "produto":"Placa video",
+          "marca":"Asus",
+          "modelo":"RC1-12"
+          }
 ]
