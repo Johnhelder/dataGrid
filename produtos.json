@@ -43,4 +43,11 @@
           "marca":"Asus",
           "modelo":"RC1-12"
           }
+
+          {
+            "id":"09",
+            "produto":"HD SSD m.2",
+            "marca":"Kingston",
+            "modelo":"C1-45"
+            }
 ]
